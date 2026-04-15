@@ -1,4 +1,3 @@
-# faculdade-projetos
 # Portfólio Acadêmico - Ciência da Computação
 
 Repositório destinado ao armazenamento de trabalhos e pesquisas realizados durante a graduação.
